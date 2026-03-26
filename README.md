@@ -21,6 +21,14 @@ This tool acts as a smart reply assistant (not an auto-bot), helping you quickly
 
 ---
 
+## 📸 UI Preview
+
+<p align="center">
+  <img src="assets/ux.png" alt="App UI" width="700"/>
+</p>
+
+---
+
 ## 🧠 How It Works
 
 1. Copy any message (from phone or browser)
