@@ -90,7 +90,7 @@ This will:
 ## 📂 Project Structure
 
 ```text
-reply-assistant/
+smart-reply-assistant/
 ├── app.py              # UI + app logic
 ├── llm_client.py       # LLM integration (Ollama)
 ├── prompts.py          # Prompt design
