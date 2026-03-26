@@ -13,11 +13,11 @@ This tool acts as a smart reply assistant (not an auto-bot), helping you quickly
   - Emails
   - Social media chats
   - General communication 
-- Uses a **local LLM (Ollama)** — no API cost or rate limits  
+- Uses a **local LLM (Ollama)** - no API cost or rate limits  
 - Simple Tkinter-based UI  
 - Clipboard support for quick input  
 - One-command startup (auto-starts Ollama)  
-- Fully local — no data leaves your machine  
+- Fully local - no data leaves your machine  
 
 ---
 
