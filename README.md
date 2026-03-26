@@ -1,4 +1,4 @@
-# 📌 Reply Assistant
+# 📌 Smart Reply Assistant
 
 A lightweight macOS desktop app that generates smart, human-like replies for any conversation using a local LLM.
 
